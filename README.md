@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome to my GitHub portfolio! I enjoy analyzing data and creating models to solve problems or discover new insights. Python is what I use for all of my projects; most were for data science classes where I (typically) worked with a partner.
+
 
 <!--
 **connorquadrini/connorquadrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
